@@ -16,6 +16,7 @@
         background-color: #45AAF2;
     }
     h1 {
+        margin-left: 55px;
         font-family: 'Lobster', cursive;
         color: #FBFBFB;
     }
