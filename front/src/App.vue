@@ -14,6 +14,7 @@
 
 <style lang="scss">
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 * {
   font-size: 125%;
   box-sizing: border-box;
